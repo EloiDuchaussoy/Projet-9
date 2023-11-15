@@ -1,3 +1,7 @@
 /news-portal-user-interactions-by-globocom
 /news-portal-user-interactions-by-globocom.zip
-.venv*
+*.venv*
+/globocom*
+*.pptx
+*.pickle
+*.csv
